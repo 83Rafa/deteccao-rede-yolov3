@@ -8,7 +8,8 @@
 <div align="center">
     <h3>Transfer Learning para Detecção de Foco da Dengue</h3>
     <p>Esse é um projeto de transferência de aprendizado voltado para detecção de água parada ou situações onde o evento pode ocorrer e causar um possível foco de <stronf><i>Aedes Aegypti</i></strong>. O intuíto é o reconhecimento de imagens como a apresentada abaixo, tal como caixas d'aguas abertas, pneus etc.</p>
-    <img src="images/agua_parada.jpg" alt="">
+    <img src="images/agua_parada.jpg" alt="" width="200">
+    <img src="images/pneus.jpg" alt="" width="530">
 </div>
 <br>
 <h3>Para o treinamento foram seguidos os seguintes passos:</h3>
@@ -41,5 +42,6 @@
         <li>Por fim, após o treinamento, o detector customizado foi executado.</li>
 </div>
 <div align="center">
-    <img src="images/objeto_detectado.jpg" alt="dois potes com água parada">
+    <img src="images/objeto_detectado.jpg" alt="dois potes com água parada" width="200">
+    <img src="images/objeto_detectado_2.jpg" alt="pneus velhos " width="530">
 </div>
